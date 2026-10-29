@@ -1,0 +1,17 @@
+{
+  "viewBox": 100,
+  "kite": "M50 4 L80 36 L50 76 L20 36 Z",
+  "tail": "M50 76 C43 81 57 85 50 89 S43 94 50 96",
+  "tailWidth": 2.6,
+  "brackets": "M36 29 V22 H43 M57 22 H64 V29 M64 45 V52 H57 M43 52 H36 V45",
+  "bracketWidth": 2.4,
+  "scan": { "x1": 36, "x2": 64, "top": 22, "bottom": 52, "width": 2.4 },
+  "colors": {
+    "kiteFrom": "#6C70F5",
+    "kiteTo": "#3B3FD8",
+    "tail": "#6C70F5",
+    "bracket": "#FFFFFF",
+    "scan": "#22D3EE",
+    "iconBackground": "#0B1220"
+  }
+}
